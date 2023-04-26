@@ -15,4 +15,12 @@ Sumário
 
 ---
 
+Estatística é a coleta, organização e estudo de dados para a geração de informações.
 
+E o objetivo é transformar dados em informações e informações em insights.
+
+---
+
+HiPPO
+
+A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala é utilizando dados.
