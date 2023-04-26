@@ -1,4 +1,4 @@
-# 👩‍🔬Estatística para Ciência de Dados.
+# 👩‍🔬🎲Estatística para Ciência de Dados.
 
 ---
 
