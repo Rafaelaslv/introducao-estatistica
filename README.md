@@ -21,18 +21,19 @@ E o objetivo é transformar dados em informações e informações em insights.
 
 ---
 
-HiPPO
+*HiPPO
 
-A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala é utilizando dados.
+*A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala é utilizando dados.
 
 ---
 
-Estatística aplicada ao mercado
+### Estatística aplicada ao mercado
 
-Quando tentamos entender uma informacao que esta muito diferente do que geralmente ocorre.
+* Deteccao de Anomalias: Quando tentamos entender uma informacao que esta muito diferente do que geralmente ocorre.
 
-Quando ocorre a comparacao entre dois cenarios para descobrir qual a melhor decisao a ser tomada.
+* Teste de Hispoteses: Quando ocorre a comparacao entre dois cenarios para descobrir qual a melhor decisao a ser tomada.
 
+* Forecasting: Quando voce faz a comparacao entre informacoes antigas e atuais para realizar uma previsao.
 
-
+* Metrics Report: 
 
