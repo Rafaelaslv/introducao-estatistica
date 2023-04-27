@@ -29,11 +29,10 @@ E o objetivo é transformar dados em informações e informações em insights.
 
 ### Estatística aplicada ao mercado
 
-* Deteccao de Anomalias: Quando tentamos entender uma informacao que esta muito diferente do que geralmente ocorre.
+* Detecção de Anomalias: Quando tentamos entender uma informação muito diferente do que costuma acontecer.
 
-* Teste de Hispoteses: Quando ocorre a comparacao entre dois cenarios para descobrir qual a melhor decisao a ser tomada.
+* Teste de hipótese: Quando dois cenários são comparados para saber qual é a melhor decisão a ser tomada.
 
-* Forecasting: Quando voce faz a comparacao entre informacoes antigas e atuais para realizar uma previsao.
+* Previsão: Quando você compara informações passadas e atuais para fazer uma previsão.
 
-* Metrics Report: 
-
+* Relatório de Métricas: Nos painéis de dashboards existem muitas estatísticas como média e mediana.
