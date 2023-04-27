@@ -43,6 +43,13 @@ A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala
 
 ### Estatística Dedutiva
 
+Conhecida tambem como Estatistica Descritiva.
+
+* Na deducao, partimos do geral para o particular.
+
+* O objetivo e obter informacoes e insights sobre os dados que temos.
+
+
 
 
 
