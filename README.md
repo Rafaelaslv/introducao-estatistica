@@ -24,3 +24,15 @@ E o objetivo é transformar dados em informações e informações em insights.
 HiPPO
 
 A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala é utilizando dados.
+
+---
+
+Estatística aplicada ao mercado
+
+Quando tentamos entender uma informacao que esta muito diferente do que geralmente ocorre.
+
+Quando ocorre a comparacao entre dois cenarios para descobrir qual a melhor decisao a ser tomada.
+
+
+
+
