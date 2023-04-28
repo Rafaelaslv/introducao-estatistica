@@ -49,7 +49,9 @@ Conhecida tambem como Estatistica Descritiva.
 
 * O objetivo e obter informacoes e insights sobre os dados que temos.
 
+Quando usamos os dados gerais que temos, para entender uma parte.
 
+Quando usamos uma parte dos dados que temos para entender o geral.
 
 
 
