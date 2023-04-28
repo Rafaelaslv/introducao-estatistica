@@ -56,6 +56,8 @@ Na Estatística Dedutiva, nós obtemos informações e insights sobre o que já 
 
 Quando usamos uma parte dos dados que temos para entender o geral.
 
+Na Estatística Indutiva, o objetivo é fazer estimativas sobre o que não sabemos utilizando dados já observados, como estimar a previsão de vendas para o próximo ano.
+
 
 
 
