@@ -11,7 +11,7 @@ Sumário
 * O que é Estatística?
 * Estatística aplicada ao mercado
 * Estatística indutiva e dedutiva
-* Método estatístico e sua fases
+* Método estatístico e suas fases
 
 ---
 
@@ -39,6 +39,8 @@ A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala
 
 * Relatório de Métricas: Nos painéis de dashboards existem muitas estatísticas como média e mediana.
 
+
+
 ---
 
 ### Estatística Dedutiva
@@ -47,6 +49,7 @@ A Estatística dedutiva também é conhecida como Estatística descritiva e seu 
 
 Por isso, uma análise do perfil de compra é uma aplicação dedutiva, pois olha para o passado para entender o que cada usuário tem comprado nessa loja online.
 
+---
 
 ### Estatística Indutiva
 
@@ -54,6 +57,21 @@ A Estatística indutiva também é conhecida como Estatística Inferencial e seu
 
 Como estimar a previsão de vendas para o próximo ano.
 
+---
+
+### Método estatístico e suas fases
+
+É utilizado para facilitar e descomplicar a análise de nossos dados.
+
+Definicao do problema
+
+Planejamento
+
+Coleta dos dados
+
+Critica dos dados
+
+Apuracao dos dados
 
 
 
