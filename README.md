@@ -43,20 +43,16 @@ A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala
 
 ### Estatística Dedutiva
 
-Conhecida tambem como Estatistica Descritiva.
+A Estatística dedutiva também é conhecida como Estatística descritiva e seu objetivo é obter informações e insights sobre o que já foi observado.
 
-* Na deducao, partimos do geral para o particular (Quando usamos os dados gerais que temos, para entender uma parte.)
-
-* O objetivo e obter informacoes e insights sobre os dados que temos.
-
-Na Estatística Dedutiva, nós obtemos informações e insights sobre o que já foi observado. Por isso, uma análise do perfil de compra é uma aplicação dedutiva, pois olha para o passado para entender o que cada usuário tem comprado nessa loja online.
+Por isso, uma análise do perfil de compra é uma aplicação dedutiva, pois olha para o passado para entender o que cada usuário tem comprado nessa loja online.
 
 
 ### Estatística Indutiva
 
-Quando usamos uma parte dos dados que temos para entender o geral.
+A Estatística indutiva também é conhecida como Estatística Inferencial e seu objetivo é obter estimativas para o que não foi observado, mas utilizando o que já foi observado.
 
-Na Estatística Indutiva, o objetivo é fazer estimativas sobre o que não sabemos utilizando dados já observados, como estimar a previsão de vendas para o próximo ano.
+Como estimar a previsão de vendas para o próximo ano.
 
 
 
