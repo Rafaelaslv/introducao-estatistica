@@ -45,11 +45,14 @@ A forma de ter uma opinião mais relevante do que a pessoa mais bem paga da sala
 
 Conhecida tambem como Estatistica Descritiva.
 
-* Na deducao, partimos do geral para o particular.
+* Na deducao, partimos do geral para o particular (Quando usamos os dados gerais que temos, para entender uma parte.)
 
 * O objetivo e obter informacoes e insights sobre os dados que temos.
 
-Quando usamos os dados gerais que temos, para entender uma parte.
+Na Estatística Dedutiva, nós obtemos informações e insights sobre o que já foi observado. Por isso, uma análise do perfil de compra é uma aplicação dedutiva, pois olha para o passado para entender o que cada usuário tem comprado nessa loja online.
+
+
+### Estatística Indutiva
 
 Quando usamos uma parte dos dados que temos para entender o geral.
 
