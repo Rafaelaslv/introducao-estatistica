@@ -73,7 +73,7 @@ Como estimar a previsão de vendas para o próximo ano.
 
 * Apuração dos dados: Nessa fase, vamos revisar os dados que temos, com uma boa qualidade já assegurada, e começamos a fazer as análises que já planejamos fazer. Também é nessa fase que olhamos novamente para as perguntas que queremos responder e entendemos se falta algum dado ou alguma informação ou análise para cumprir esse objetivo.
 
-* Apresentação de dados: Aqui, é importante entender o público a quem será apresentado essa análise: para um público não tão técnico, faz sentido usar termos de negócio e em geral, com mais gráfico e mais mastigado; para um público mais técnico, talvez já faça sentido levar análises mais cruas, explicando até mesmo como a análise foi feita.
+* Apresentação dos dados: Aqui, é importante entender o público a quem será apresentado essa análise: para um público não tão técnico, faz sentido usar termos de negócio e em geral, com mais gráfico e mais mastigado; para um público mais técnico, talvez já faça sentido levar análises mais cruas, explicando até mesmo como a análise foi feita.
 
 * Análise e interpretação de dados: Nessa fase, conectamos o resultado das análises (gráficos, médias, estimativas, etc) com o problema de negócio que queríamos resolver em primeiro lugar. Um número ou um gráfico por si só não responde nenhuma pergunta, eles precisam estar ligados a um contexto de negócio.
 
