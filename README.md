@@ -63,15 +63,19 @@ Como estimar a previsão de vendas para o próximo ano.
 
 É utilizado para facilitar e descomplicar a análise de nossos dados.
 
-Definicao do problema
+Definição do problema: Em geral, stakeholders fazem pedidos e cabe à pessoa que conduzirá a análise entender qual o problema a ser definido por trás de cada pedido, fazendo perguntas e contextualizando com informações do negócio ou da pesquisa.
 
-Planejamento
+Planejamento: Aqui, definimos quais dados vamos precisar, de onde vamos extraí-los, quais análises vamos fazer em cima desses dados e por quanto tempo vamos analisá-los.
 
-Coleta dos dados
+Coleta dos dados: Aqui, vamos atrás dos dados que definimos que precisamos na fase anterior. Em qual base de dados eles estão, em qual formato, qual acesso precisamos e qual a natureza desses dados?
 
-Critica dos dados
+Crítica dos dados: Nessa fase, vamos revisar os dados que temos, com uma boa qualidade já assegurada, e começamos a fazer as análises que já planejamos fazer. Também é nessa fase que olhamos novamente para as perguntas que queremos responder e entendemos se falta algum dado ou alguma informação ou análise para cumprir esse objetivo.
 
-Apuracao dos dados
+Apuração dos dados: Nessa fase, vamos revisar os dados que temos, com uma boa qualidade já assegurada, e começamos a fazer as análises que já planejamos fazer. Também é nessa fase que olhamos novamente para as perguntas que queremos responder e entendemos se falta algum dado ou alguma informação ou análise para cumprir esse objetivo.
+
+Apresentação de dados: Aqui, é importante entender o público a quem será apresentado essa análise: para um público não tão técnico, faz sentido usar termos de negócio e em geral, com mais gráfico e mais mastigado; para um público mais técnico, talvez já faça sentido levar análises mais cruas, explicando até mesmo como a análise foi feita.
+
+Análise e interpretação de dados:
 
 
 
