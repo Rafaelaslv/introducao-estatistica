@@ -1,7 +1,5 @@
 # 👩‍🔬🎲Estatística para Ciência de Dados.
 
----
-
 ### Minhas anotações sobre Introdução à Estatística
 ---
 
