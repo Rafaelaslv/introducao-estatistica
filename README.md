@@ -3,7 +3,7 @@
 ### Minhas anotações sobre Introdução à Estatística
 ---
 
-Sumário
+### Sumário
 
 * O que é Estatística?
 * Estatística aplicada ao mercado
